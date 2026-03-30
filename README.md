@@ -196,7 +196,7 @@ This project is for educational and academic purposes.
 ## ⭐ Acknowledgement
 
 This project was developed as part of a statistical data analysis learning program to understand real-world application of probability distributions.
----
+
 ## Project Explanation Video
 (
 
